@@ -1,0 +1,103 @@
+{
+  "alert": {
+    "category": "master",
+    "sounds": [
+      "cybercraft2077:alert"
+    ],
+    "subtitle": "cybercraft2077.subtitle.alert"
+  },
+  "encounter_win": {
+    "category": "master",
+    "sounds": [
+      "cybercraft2077:cyber_combat_win"
+    ],
+    "subtitle": "cybercraft2077.subtitle.encounter_win"
+  },
+  "death": {
+    "category": "master",
+    "sounds": [
+      "cybercraft2077:death"
+    ],
+    "subtitle": "cybercraft2077.subtitle.death"
+  },
+  "tigerclaws_hostile": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cybercraft2077:tigerclaws_hostile",
+        "stream": true
+      }
+    ],
+    "subtitles":"cybercraft2077:subtitles.tigerclaws_hostile"
+  },
+  "tigerclaws_combat": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cybercraft2077:tigerclaws_combat",
+        "stream": true
+      }
+    ],
+    "subtitles":"cybercraft2077:subtitles.tigerclaws_combat"
+  },
+  "heist_hostile": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cybercraft2077:heist_hostile",
+        "stream": true
+      }
+    ],
+    "subtitles":"cybercraft2077:subtitles.heist_hostile"
+  },
+  "heist_combat": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cybercraft2077:heist_combat",
+        "stream": true
+      }
+    ],
+    "subtitles":"cybercraft2077:subtitles.heist_combat"
+  },
+  "raphs_combat": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cybercraft2077:raphs_combat",
+        "stream": true
+      }
+    ],
+    "subtitles":"cybercraft2077:subtitles.raphs_combat"
+  },
+  "raphs_hostile": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cybercraft2077:raphs_hostile",
+        "stream": true
+      }
+    ],
+    "subtitles":"cybercraft2077:subtitles.raphs_hostile"
+  },
+  "scavs_combat": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cybercraft2077:scavs_combat",
+        "stream": true
+      }
+    ],
+    "subtitles":"cybercraft2077:subtitles.scavs_combat"
+  },
+  "scavs_hostile": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cybercraft2077:scavs_hostile",
+        "stream": true
+      }
+    ],
+    "subtitles":"cybercraft2077:subtitles.scavs_hostile"
+  }
+}

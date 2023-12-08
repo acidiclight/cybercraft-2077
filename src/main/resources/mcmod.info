@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cybercraft2077",
+  "name": "Cybercraft 2077",
+  "description": "Adds Cyberpunk 2077 stealth and combat sounds to Minecraft, and adds an indicator for whether an area is safe or hostile.",
+  "version": "20.77",
+  "mcversion": "${mcversion}",
+  "url": "https://acidiclight.dev/my-work/cybercraft-2077",
+  "updateUrl": "",
+  "authorList": ["acidic light"],
+  "credits": "CD Projekt RED, because Cyberpunk exists.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

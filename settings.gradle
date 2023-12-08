@@ -1,0 +1,17 @@
+pluginManagement {
+    repositories {
+        // <other repositories omitted>
+        maven {
+            name 'Garden of Fancy'
+            url 'https://maven.gofancy.wtf/releases'
+        }
+        maven {
+            name 'MixinGradle'
+            url 'https://repo.spongepowered.org/maven'
+        }
+        maven {
+            name 'MinecraftForge'
+            url 'https://maven.minecraftforge.net/'
+        }
+    }
+}
